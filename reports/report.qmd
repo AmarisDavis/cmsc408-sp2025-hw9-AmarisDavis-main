@@ -3,7 +3,7 @@ title: Homework 9 - World Bank - Population Analysis
 ---
 
 
-GITHUB URL:  <https://github.com/cmsc-vcu/cmsc408-sp2025-hw9-template>
+GITHUB URL:  <https://github.com/AmarisDavis/cmsc408-sp2025-hw9-AmarisDavis-main>
 
 This assignment focuses on the SELECT statement with joins and other fun features.  As context, we'll be conducting an analysis of some real-world data use SQL to reveal answers.
 
